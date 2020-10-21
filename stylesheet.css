@@ -6,7 +6,6 @@
 
 .f-container {
     display: flex;
-    background-color: chartreuse;
     height: 100%;
     
 }
@@ -21,13 +20,11 @@
 .header {
     width: 100%;
     height: 60px;
-    background-color: blue;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .f-item.contact {
-    background-color: #00c17c;
     padding:0 20px;
 }
