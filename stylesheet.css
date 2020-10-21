@@ -1,0 +1,35 @@
+.header-logo {
+    color: #e44848;
+    font-size: 18px;
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+.f-container {
+    display: flex;
+    height: 100%;
+    
+}
+
+.f-item {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.header {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.f-item.contact {
+    padding:0 20px;
+    background-color: #00c17c;
+    color: #ffffff;
+}
