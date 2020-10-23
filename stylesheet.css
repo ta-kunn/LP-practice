@@ -39,13 +39,17 @@
     font-weight: bold;
     text-align: center;
     position: absolute;
-    top: 36%;
+    top: 50%;
     width: 100%;
+    transform: translateY(-50%);
     color: #ffffff;
 }
 
 .top-wrapper img {
     background-size: cover;
-    position: relative;
     width: 100%;
+}
+
+.top-wrapper {
+    position: relative;
 }
