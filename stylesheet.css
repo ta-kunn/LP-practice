@@ -117,7 +117,6 @@
     text-align: center;
     color: #ffffff;
     line-height: 30px;
-    top: 30%;
     width: 100%;
     font-weight: bold;
 }
@@ -144,8 +143,7 @@
     justify-content: center;
     flex-wrap: wrap;
     width: 1060px;
-    margin: auto;
-    margin-top: 20px;
+    margin: 20px auto 0;
 }
 
 .white-box:nth-child(n+2) {
