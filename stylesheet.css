@@ -141,7 +141,6 @@
 
 .white-container {
     display: flex;
-    top: 50%;
     justify-content: center;
     flex-wrap: wrap;
     width: 1060px;
